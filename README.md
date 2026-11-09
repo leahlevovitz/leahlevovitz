@@ -6,8 +6,7 @@
 
 **Software Developer** who loves turning complex problems into clean, reliable software, from full-stack web systems to AI-powered tools.
 
-> [!TIP]
-> 📍 **Jerusalem, Israel** · Open to new opportunities
+📍 **Jerusalem, Israel** · 🟢 Open to new opportunities
 
 ---
 
