@@ -1,10 +1,8 @@
 ## Hi, I'm Leah 👋
 
-**Full-Stack Software Developer** · .NET · Angular · Python · AI Agents
+**Software Developer** who loves turning complex problems into clean, reliable software, from full-stack web systems to AI-powered tools.
 
-📍 Jerusalem, Israel · Open to Full-Stack, Backend and AI Developer roles
-
-I build production web systems and AI agents that actually ship.
+📍 Jerusalem, Israel · Open to new opportunities
 
 ---
 
