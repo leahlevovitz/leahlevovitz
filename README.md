@@ -146,7 +146,7 @@ Angular SPA on **AWS Lambda + S3**, and a Django team task manager with roles.
 
 ## 🎓 Education
 
-- **Software Engineering**, MAHAT-certified · Seminar HaChadash, Jerusalem · <sub>2024 – 2026</sub>
+- **Software Engineering Diploma** · MAHAT, Government Institute for Technology & Science Training · <sub>2024 – 2026</sub>
 - **AI Development & Applications** · Malka Bruk · <sub>2026</sub>
 
 <br>
